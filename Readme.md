@@ -6,6 +6,8 @@
 
 ## Table of contents
 
+Aaditya Sonavane
+
 * [Installation](#Installation)
 * [Features](#Features)
 * [Docs & Community](#docs--community)
